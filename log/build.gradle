@@ -47,7 +47,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'io.github.cookiesplus'
                 artifactId = 'android-log'
-                version = '1.0'
+                version = '1.0.0'
             }
         }
     }
